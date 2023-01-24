@@ -1,2 +1,10 @@
 # Dependency directories
 node_modules/
+
+# dotenv environment variable files
+.env
+
+
+# prisma
+dev.db
+dev.db-journal
